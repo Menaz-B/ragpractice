@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+.env/
+
+# Streamlit secrets (for safety)
+.streamlit/secrets.toml
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Jupyter (if used for prototyping)
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# VSCode or IDE
+.vscode/
+.idea/
+
+# Streamlit cache
+.streamlit/config.toml
