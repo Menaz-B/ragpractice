@@ -3,5 +3,6 @@ openai
 langchain>=0.1.14
 langchain-community
 langchain-openai
-PyPDF2
+pdfplumber
 faiss-cpu
+python-dateutil
